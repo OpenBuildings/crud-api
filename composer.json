@@ -1,0 +1,17 @@
+{
+    "name": "openbuildings/crud-api",
+    "type": "kohana-module",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Emanuil Rusev",
+            "email": "erusev@despark.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "openbuildings/jam": "dev-master",
+        "openbuildings/jam-auth": "dev-master"
+    }
+}
+
